@@ -1,6 +1,6 @@
 # khaled ziadeh 
 
-## Hello my  name is khaled zaideh i studied manangement information system in mutah university and this is my summary for our luctures: 
+# Hello my  name is khaled zaideh i studied manangement information system in mutah university and this is my summary for our luctures: 
 
 |No   | Title |
  |-----|------|
