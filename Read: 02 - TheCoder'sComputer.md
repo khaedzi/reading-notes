@@ -10,9 +10,10 @@ Here's your first shortcut. When you enter commands, they are actually stored in
 
 In this section, we'll learn the basics of moving around the system. Many tasks rely on being able to get to, or reference the correct location in the system. As such, this stuff really forms the foundation of being able to work effectively in Linux. Make sure you understand it well.
 
-So where are we? can use pwd 
-What's in Our Current Location? ls
+So where are we? can use pwd  <br>
 
+What's in Our Current Location? ls
+<br>
 Let's Move Around a Bit ? cd .
 Relative path
 A file or directory location relative to where we currently are in the file system.
